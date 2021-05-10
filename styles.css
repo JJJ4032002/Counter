@@ -32,3 +32,10 @@ button {
 .content {
   padding-top: 30vh;
 }
+
+@media (max-width: 400px) {
+  button {
+    font-size: 15px;
+    padding: 5px 10px;
+  }
+}

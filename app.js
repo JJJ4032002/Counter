@@ -61,4 +61,4 @@ res.addEventListener("click",()=>{
       
 
     count.innerHTML = ct;
-})
+});
